@@ -94,8 +94,6 @@ The above copyright notice and this permission notice shall be included in all c
 
 ## 👤 Maintainer
 
-**Mohammad Ghanem**
-
 🔗 **GitHub**: [https://github.com/SuperMag99](https://github.com/SuperMag99)  
 🔗 **LinkedIn**: [https://www.linkedin.com/in/mag99/](https://www.linkedin.com/in/mag99/)
 

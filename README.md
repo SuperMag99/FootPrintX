@@ -78,6 +78,10 @@ If you're stuck or need deeper insights, scroll to the bottom of any module and 
 - **Icons**: Lucide React
 - **AI Engine**: Google Gemini 3 Flash API
 
+## 🧭 Security and Vulnerabilities
+
+- **Security:** Refer to [SECURITY.md](./SECURITY.md).
+
 ## ⚖️ Legal & Ethical Disclaimer
 
 This tool is for **educational and lawful OSINT use only**. FootprintX only generates search engine queries. It does not collect or store personal data, nor does it perform any intrusive scraping or bypass security controls. Users are solely responsible for ensuring their use of these queries complies with local laws and search engine Terms of Service.

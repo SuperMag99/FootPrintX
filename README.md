@@ -82,15 +82,19 @@ If you're stuck or need deeper insights, scroll to the bottom of any module and 
 
 This tool is for **educational and lawful OSINT use only**. FootprintX only generates search engine queries. It does not collect or store personal data, nor does it perform any intrusive scraping or bypass security controls. Users are solely responsible for ensuring their use of these queries complies with local laws and search engine Terms of Service.
 
-## 📜 License
+## License Summary
 
-**MIT License**
+This project is licensed under a **Non-Commercial Attribution License**. Key points:
 
-Copyright (c) 2025 FootPrintX
+1. ✅ **Free to use for personal, educational, and research purposes.**
+2. ✅ **Any modification or derivative work must credit to the author.
+3. ❌ **Commercial use, sale, licensing, or any use intended to generate revenue is strictly prohibited without prior written permission.**
+4. ⚠️ **No warranty**: Use at your own risk.
+5. ⚖️ **Legal protection**: Unauthorized commercial use or failure to credit the author may result in legal action.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+For full license details, see the `LICENSE` file. [LICENSE](./LICENSE).
 
-The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+---
 
 ## 👤 Maintainer
 

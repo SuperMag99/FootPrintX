@@ -142,7 +142,6 @@ const Layout: React.FC<LayoutProps> = ({ children, currentView, setView }) => {
         </div>
         <div className="max-w-7xl mx-auto mt-12 pt-8 border-t border-slate-800 text-center text-xs text-slate-600">
           <p>© 2025 FootprintX Open Source Project.</p>
-          <p className="mt-1">Released under the MIT License. Open Source OSINT Initiative.</p>
         </div>
       </footer>
     </div>
